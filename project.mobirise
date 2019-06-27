@@ -8,7 +8,7 @@
       "styling": {
         "primaryColor": "#ba9a43",
         "secondaryColor": "#ba9a43",
-        "successColor": "#ba9a43",
+        "successColor": "#263391",
         "infoColor": "#ba9a43",
         "warningColor": "#ba9a43",
         "dangerColor": "#ba9a43",
@@ -30,7 +30,8 @@
       "additionalSetColors": [
         "#263391",
         "#ba9a43",
-        "#000000"
+        "#000000",
+        "#ff0316"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -1034,7 +1035,8 @@
               "margin": "0 auto"
             },
             ".section-text": {
-              "padding": "2rem 0"
+              "padding": "2rem 0",
+              "color": "#ffffff"
             },
             ".inner-container": {
               "margin": "0 auto"
@@ -1046,7 +1048,7 @@
             }
           },
           "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#000000\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#f7ed4a\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Please c<a href=\"https://www.kicktipp.co.uk/sky-bet-championship/\" target=\"_blank\" class=\"text-black\">lick here to join our 2019-20 Championship Predictor League</a></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"25\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#263391\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><a href=\"https://www.kicktipp.co.uk/sky-bet-championship/\" target=\"_blank\" class=\"text-primary\">Please click here to join our 2019-20 Championship Predictor League</a><br><br>There are also apps that you can dowload which make it easier to remember to do your predictions:<br><a href=\"https://appstore.com/kicktipp/\" target=\"_blank\" class=\"text-warning\">iOS</a><br><a href=\"https://play.google.com/store/apps/details?id=de.kicktipp.mbookmark\" target=\"_blank\" class=\"text-warning\">Android</a></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "ruC5D9RliX",
           "_protectedParams": [],
           "_global": false,
