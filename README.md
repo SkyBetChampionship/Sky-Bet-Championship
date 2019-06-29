@@ -9,7 +9,7 @@
 
 <div align="center">
   
-<img src="assets/images/ball bouncing.gif" alt="Loding Icon" style="width:80px;height:320px;">
+<img src="https://raw.githubusercontent.com/SkyBetChampionship/skybetchampionshipgithubio/gh-pages/assets/images/ball%20bouncing.gif" alt="Loding Icon" style="width:80px;height:320px;">
 
 </div>
 
